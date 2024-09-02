@@ -61,6 +61,6 @@ class Admin extends User
     }
 }
 
-let std = new Admin("Nayan","nayan12@gmail.com");
+let std = new Admin("Rohan","rohan12@gmail.com");
 std.viewData();
 std.editData("Vrindavan");
