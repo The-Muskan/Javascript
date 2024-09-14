@@ -1,8 +1,8 @@
 // ARRAY 
 // Arrays are mutable in JS.
 let marks = [67,78,43,63,98,54];
-let name = ['muskan','shradha','nayan','aman'];
-let item = ['muskan',78,'nayan',85];        // this is bad practice
+let name = ['muskan','shradha','rohan','aman'];
+let item = ['muskan',78,'rohan',85];        // this is bad practice
 console.log(marks);
 console.log(name);
 console.log(item);
@@ -61,7 +61,7 @@ console.log(food);
 
 console.log(food.toString());
 
-let drinks = ['coke','fruity','thumbsUp'];
+let drinks = ['coke','fruity','thumsUp'];
 console.log(food.concat(drinks));
 
 drinks.unshift("juice","pepsi",'sprite');
