@@ -30,7 +30,7 @@ console.dir(q4);
 let q5 = document.querySelector("#head");  // 1st element
 console.dir(q5);
 
-// innerText : returns the text content of the ele,emt and all its children.
+// innerText : returns the text content of the element and all its children.
 // innerHTML : returns the plain text or HTML contents in the element
 // textContent : returns textual content even for hidden elements.
 let div = document.querySelector("div");
